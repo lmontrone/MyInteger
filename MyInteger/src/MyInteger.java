@@ -1,4 +1,4 @@
-public class MyInteger 
+public class MyInteger
 {
 	private int value;
 	public MyInteger(int value)
